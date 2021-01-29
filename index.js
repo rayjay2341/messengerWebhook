@@ -1,6 +1,6 @@
 'use strict';
-var validJSON= '{"foo" : "bar", "missedquotehere : "value" }';
-JSON.parse(validJSON)
+
+
 // Imports dependencies and set up http server
 const
   express = require('express'),
